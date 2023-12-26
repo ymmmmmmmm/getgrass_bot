@@ -7,7 +7,7 @@
 
 修改main函数中user_id和sock5代理列表
 
-如果不使用代理,清运行no_proxy.py
+如果不使用代理,请运行no_proxy.py
 
 
 ### 邀请链接
