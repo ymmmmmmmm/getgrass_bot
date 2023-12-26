@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 # @Time     :2023/12/26 17:00
 # @Author   :ym
-# @Email    :49154181@qq.com
 # @File     :main.py
 # @Software :PyCharm
 import asyncio
