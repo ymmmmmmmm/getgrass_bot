@@ -20,7 +20,7 @@ https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 
 2.页面按F12打开控制台 输入代码
 
-`console.log(localStorage.getItem('userId'))`
+`localStorage.getItem('userId')`
 
 打印的就是当前用户的user_id
 
