@@ -14,7 +14,7 @@ from websockets_proxy import Proxy, proxy_connect
 
 
 async def connect_to_wss(socks5_proxy, user_id):
-    device_id = str(uuid.uuid4())
+    device_id = str(uuid.uuid3(uuid.NAMESPACE_DNS, socks5_proxy))
     logger.info(device_id)
     while True:
         try:
