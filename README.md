@@ -26,3 +26,10 @@ https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 
 
 ![0001](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/31d0e16e-df2f-443a-a141-910d16052ed9)
+
+
+无代码基础请直接使用带界面版本
+
+
+![3333](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/80e18c1f-da5d-40d4-a361-3506b44c6602)
+
