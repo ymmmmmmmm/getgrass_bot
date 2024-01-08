@@ -1,6 +1,10 @@
+# 扫码加入交流群
+
+![微信截图_20240108182830](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/cc7fd5f0-78f4-46e3-bfc7-9481498e4006)
 # getgrass_bot
 
 `pip3 install websockets_proxy`
+
 
 `pip3 install loguru`
 
