@@ -1,6 +1,7 @@
 # 扫码加入交流群
 
-![微信截图_20240108182830](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/cc7fd5f0-78f4-46e3-bfc7-9481498e4006)
+![image](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/36b45b13-fe65-4c5f-80f5-ea83aebecf01)
+
 # getgrass_bot
 
 `pip3 install websockets_proxy`
