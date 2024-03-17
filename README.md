@@ -35,5 +35,3 @@ https://app.getgrass.io/register/?referralCode=0PhrIR8TAQX6IG4
 ![3333](https://github.com/ymmmmmmmm/getgrass_bot/assets/51306299/80e18c1f-da5d-40d4-a361-3506b44c6602)
 
 
-### 更多疑问请扫码添加好友加入交流群
-![微信图片_20240206233445](https://github.com/ymmmmmmmm/BeraChainTools/assets/51306299/52dfc20e-0f11-4fd8-b732-154f38f9b04a)
