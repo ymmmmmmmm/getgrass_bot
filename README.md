@@ -1,5 +1,17 @@
 # getgrass_bot
 
+### 资格查询地址
+
+https://grassfoundation.io/eligibility
+
+# 打赏
+
+ERC20 : 0xe47aA47319Eb2b4a31370620FEf0E72C6E717f8A
+
+Solana : GAkpA5ynWFfQqMUhEsfS3CrNT92Ah31kS6b1tcgiyq4U
+
+# 
+
 `pip3 install websockets_proxy`
 
 
