@@ -4,6 +4,10 @@
 
 https://grassfoundation.io/eligibility
 
+### 空投领取脚本
+
+[MsLolita/Grass-Claimer](https://github.com/MsLolita/Grass-Claimer)
+
 # 打赏
 
 ERC20 : 0xe47aA47319Eb2b4a31370620FEf0E72C6E717f8A
