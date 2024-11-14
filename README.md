@@ -16,7 +16,7 @@ Solana : GAkpA5ynWFfQqMUhEsfS3CrNT92Ah31kS6b1tcgiyq4U
 
 # 
 
-`pip3 install websockets_proxy`
+`pip3 install websockets_proxy==0.1.0`
 
 
 `pip3 install loguru`
